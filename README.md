@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # TheBigBookOfSmallPythonProjects
-# TheBigBookOfSmallPythonProjectsImplementationFolder
+# TheBigBookOfSmallPythonProjectsImplementationsFolder
 =======
 # Applications
 personal projects for educational purposes
