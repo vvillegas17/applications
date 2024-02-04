@@ -123,7 +123,7 @@ def main():
                     #draw the logos at their new location:
                     bext.goto(logo[X], logo[Y])
                     bext.fg(logo[COLOR])
-                    print('_D_', end='')
+                    print('DVD', end='')
                 
                 bext.goto(0, 0)
 
