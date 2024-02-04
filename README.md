@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # TheBigBookOfSmallPythonProjects
 =======
-# applications
+# Applications
 personal projects for educational purposes
 >>>>>>> origin/main
